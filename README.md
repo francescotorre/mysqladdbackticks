@@ -1,4 +1,4 @@
-# MySqliAddBacktick
+# MySqlAddBacktick
 
 ## Author: Francesco Torre
 
