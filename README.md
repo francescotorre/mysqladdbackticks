@@ -1,6 +1,3 @@
-
-<![endif]-->
-
 #  MySqliAddBacktick
 
 ##  Author: Francesco Torre
