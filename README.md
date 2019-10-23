@@ -32,7 +32,7 @@ returns as output (when **beautify** is **on**):
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>\`employee\`.\`id\` BETWEEN 30 AND 50</code>
 
-<span style="text-decoration:underline">I haven't fully tested the software with complex queries</span> (sub-selects, unions, etc.), but it seems to work pretty well for common cases.
+I haven't fully tested the software with complex queries (sub-selects, unions, etc.), but it seems to work pretty well for common cases.
 
 Standard statements **SELECT**, **INSERT**, **UPDATE** and **DELETE** are fully supported.
 
