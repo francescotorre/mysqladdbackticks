@@ -80,7 +80,7 @@
         'server' => 'localhost',
         'username' => 'root',
         'password' => 'root',
-        'db' => 'website',
+        'db' => 'dbname',
     );
 
     $beautify = true;
