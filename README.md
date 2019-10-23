@@ -40,7 +40,7 @@ Standard statements **SELECT**, **INSERT**, **UPDATE** and **DELETE** are fully 
 
 **You can try this application online at**:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[link](#)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[www.francescotorre.altervista.org/mysqladdbackticks](http://www.francescotorre.altervista.org/mysqladdbackticks)
 
 In the page, move the mouse over the **info** icon to see instructions on how to use it.
 
