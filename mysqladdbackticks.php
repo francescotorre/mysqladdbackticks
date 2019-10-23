@@ -2915,7 +2915,7 @@
 
             <main>
                 <div class="container">
-                <form action="mysqliaddbackticks.php" method="post">
+                <form action="mysqladdbackticks.php" method="post">
                             <div id="query_div">
                             <textarea name="query" 
                                 onBlur="inputTextarea_Blur()"
